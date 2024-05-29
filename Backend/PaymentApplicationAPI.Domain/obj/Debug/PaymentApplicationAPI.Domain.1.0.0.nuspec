@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>PaymentApplicationAPI.Domain</id>
+    <version>1.0.0</version>
+    <authors>PaymentApplicationAPI.Domain</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="PaymentApplicationAPI.Infrastructure" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore" version="8.0.4" exclude="Build,Analyzers" />
+        <dependency id="Npgsql.EntityFrameworkCore.PostgreSQL" version="8.0.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Asim\Desktop\Code\Community\Backend\PaymentApplicationAPI.Domain\bin\Debug\net8.0\PaymentApplicationAPI.Domain.runtimeconfig.json" target="lib\net8.0\PaymentApplicationAPI.Domain.runtimeconfig.json" />
+    <file src="C:\Users\Asim\Desktop\Code\Community\Backend\PaymentApplicationAPI.Domain\bin\Debug\net8.0\PaymentApplicationAPI.Domain.dll" target="lib\net8.0\PaymentApplicationAPI.Domain.dll" />
+  </files>
+</package>

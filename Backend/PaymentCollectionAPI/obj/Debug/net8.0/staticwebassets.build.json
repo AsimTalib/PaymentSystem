@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IgGfpuPQizTUK5s0l7wLONJFuCSpq6WoQU91dcfA0Zs=",
+  "Source": "PaymentApplicationAPI.API",
+  "BasePath": "_content/PaymentApplicationAPI.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
