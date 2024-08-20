@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\PaymentSystem.Web.Server.props" />
+</Project>

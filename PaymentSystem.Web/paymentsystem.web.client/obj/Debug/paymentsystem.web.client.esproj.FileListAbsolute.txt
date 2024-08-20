@@ -1,0 +1,2 @@
+C:\Users\Asim\Desktop\Code\Community\Mosque\PaymentSystem.Web\paymentsystem.web.client\obj\Debug\paymentsystem.web.client.esproj.CoreCompileInputs.cache
+C:\Users\Asim\Desktop\Code\Community\Backend\PaymentSystem.Web\paymentsystem.web.client\obj\Debug\paymentsystem.web.client.esproj.CoreCompileInputs.cache

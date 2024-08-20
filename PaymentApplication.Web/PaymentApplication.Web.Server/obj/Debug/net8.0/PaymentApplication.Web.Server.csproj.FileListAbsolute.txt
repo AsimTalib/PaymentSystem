@@ -1,0 +1,8 @@
+C:\Users\Asim\Desktop\Code\Community\Backend\PaymentApplication.Web\PaymentApplication.Web.Server\obj\Debug\net8.0\PaymentApplication.Web.Server.csproj.AssemblyReference.cache
+C:\Users\Asim\Desktop\Code\Community\Backend\PaymentApplication.Web\PaymentApplication.Web.Server\obj\Debug\net8.0\spa.proxy.json
+C:\Users\Asim\Desktop\Code\Community\Backend\PaymentApplication.Web\PaymentApplication.Web.Server\obj\Debug\net8.0\PaymentApplication.Web.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asim\Desktop\Code\Community\Backend\PaymentApplication.Web\PaymentApplication.Web.Server\obj\Debug\net8.0\PaymentApplication.Web.Server.AssemblyInfoInputs.cache
+C:\Users\Asim\Desktop\Code\Community\Backend\PaymentApplication.Web\PaymentApplication.Web.Server\obj\Debug\net8.0\PaymentApplication.Web.Server.AssemblyInfo.cs
+C:\Users\Asim\Desktop\Code\Community\Backend\PaymentApplication.Web\PaymentApplication.Web.Server\obj\Debug\net8.0\PaymentApplication.Web.Server.csproj.CoreCompileInputs.cache
+C:\Users\Asim\Desktop\Code\Community\Backend\PaymentApplication.Web\PaymentApplication.Web.Server\obj\Debug\net8.0\PaymentApplication.Web.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Asim\Desktop\Code\Community\Backend\PaymentApplication.Web\PaymentApplication.Web.Server\obj\Debug\net8.0\PaymentApplication.Web.Server.MvcApplicationPartsAssemblyInfo.cache

@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "4VSRBtW4IC+lLOImZE7zxaRa6gq0+hd2yy7+vOzFk0A=",
+  "Source": "PaymentSystem.Web.Server",
+  "BasePath": "_content/PaymentSystem.Web.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Asim\\Desktop\\Code\\Community\\Backend\\PaymentSystem.Web\\paymentsystem.web.client\\paymentsystem.web.client.esproj",
+      "Version": 2,
+      "Source": "paymentsystem.web.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
