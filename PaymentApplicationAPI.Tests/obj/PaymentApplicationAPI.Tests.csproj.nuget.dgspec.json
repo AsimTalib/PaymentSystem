@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asim\\Desktop\\Code\\Community\\Backend\\PaymentApplicationAPI.Tests\\PaymentApplicationAPI.Tests.csproj": {}
+    "C:\\Users\\Asim\\Desktop\\Code\\github payments system\\PaymentSystem\\PaymentApplicationAPI.Tests\\PaymentApplicationAPI.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asim\\Desktop\\Code\\Community\\Backend\\PaymentApplicationAPI.Domain\\PaymentApplicationAPI.Domain.csproj": {
+    "C:\\Users\\Asim\\Desktop\\Code\\github payments system\\PaymentSystem\\PaymentApplicationAPI.Domain\\PaymentApplicationAPI.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asim\\Desktop\\Code\\Community\\Backend\\PaymentApplicationAPI.Domain\\PaymentApplicationAPI.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Asim\\Desktop\\Code\\github payments system\\PaymentSystem\\PaymentApplicationAPI.Domain\\PaymentApplicationAPI.Domain.csproj",
         "projectName": "PaymentApplicationAPI.Domain",
-        "projectPath": "C:\\Users\\Asim\\Desktop\\Code\\Community\\Backend\\PaymentApplicationAPI.Domain\\PaymentApplicationAPI.Domain.csproj",
+        "projectPath": "C:\\Users\\Asim\\Desktop\\Code\\github payments system\\PaymentSystem\\PaymentApplicationAPI.Domain\\PaymentApplicationAPI.Domain.csproj",
         "packagesPath": "C:\\Users\\Asim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asim\\Desktop\\Code\\Community\\Backend\\PaymentApplicationAPI.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Asim\\Desktop\\Code\\github payments system\\PaymentSystem\\PaymentApplicationAPI.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Asim\\Desktop\\Code\\Community\\Backend\\PaymentApplicationAPI.Infrastructure\\PaymentApplicationAPI.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Asim\\Desktop\\Code\\Community\\Backend\\PaymentApplicationAPI.Infrastructure\\PaymentApplicationAPI.Infrastructure.csproj"
+              "C:\\Users\\Asim\\Desktop\\Code\\github payments system\\PaymentSystem\\PaymentApplicationAPI.Infrastructure\\PaymentApplicationAPI.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Asim\\Desktop\\Code\\github payments system\\PaymentSystem\\PaymentApplicationAPI.Infrastructure\\PaymentApplicationAPI.Infrastructure.csproj"
               }
             }
           }
@@ -84,14 +84,14 @@
         }
       }
     },
-    "C:\\Users\\Asim\\Desktop\\Code\\Community\\Backend\\PaymentApplicationAPI.Infrastructure\\PaymentApplicationAPI.Infrastructure.csproj": {
+    "C:\\Users\\Asim\\Desktop\\Code\\github payments system\\PaymentSystem\\PaymentApplicationAPI.Infrastructure\\PaymentApplicationAPI.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asim\\Desktop\\Code\\Community\\Backend\\PaymentApplicationAPI.Infrastructure\\PaymentApplicationAPI.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Asim\\Desktop\\Code\\github payments system\\PaymentSystem\\PaymentApplicationAPI.Infrastructure\\PaymentApplicationAPI.Infrastructure.csproj",
         "projectName": "PaymentApplicationAPI.Infrastructure",
-        "projectPath": "C:\\Users\\Asim\\Desktop\\Code\\Community\\Backend\\PaymentApplicationAPI.Infrastructure\\PaymentApplicationAPI.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Asim\\Desktop\\Code\\github payments system\\PaymentSystem\\PaymentApplicationAPI.Infrastructure\\PaymentApplicationAPI.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Asim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asim\\Desktop\\Code\\Community\\Backend\\PaymentApplicationAPI.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Asim\\Desktop\\Code\\github payments system\\PaymentSystem\\PaymentApplicationAPI.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -160,14 +160,14 @@
         }
       }
     },
-    "C:\\Users\\Asim\\Desktop\\Code\\Community\\Backend\\PaymentApplicationAPI.Tests\\PaymentApplicationAPI.Tests.csproj": {
+    "C:\\Users\\Asim\\Desktop\\Code\\github payments system\\PaymentSystem\\PaymentApplicationAPI.Tests\\PaymentApplicationAPI.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asim\\Desktop\\Code\\Community\\Backend\\PaymentApplicationAPI.Tests\\PaymentApplicationAPI.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\Asim\\Desktop\\Code\\github payments system\\PaymentSystem\\PaymentApplicationAPI.Tests\\PaymentApplicationAPI.Tests.csproj",
         "projectName": "PaymentApplicationAPI.Tests",
-        "projectPath": "C:\\Users\\Asim\\Desktop\\Code\\Community\\Backend\\PaymentApplicationAPI.Tests\\PaymentApplicationAPI.Tests.csproj",
+        "projectPath": "C:\\Users\\Asim\\Desktop\\Code\\github payments system\\PaymentSystem\\PaymentApplicationAPI.Tests\\PaymentApplicationAPI.Tests.csproj",
         "packagesPath": "C:\\Users\\Asim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asim\\Desktop\\Code\\Community\\Backend\\PaymentApplicationAPI.Tests\\obj\\",
+        "outputPath": "C:\\Users\\Asim\\Desktop\\Code\\github payments system\\PaymentSystem\\PaymentApplicationAPI.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -189,14 +189,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Asim\\Desktop\\Code\\Community\\Backend\\PaymentApplicationAPI.Domain\\PaymentApplicationAPI.Domain.csproj": {
-                "projectPath": "C:\\Users\\Asim\\Desktop\\Code\\Community\\Backend\\PaymentApplicationAPI.Domain\\PaymentApplicationAPI.Domain.csproj"
+              "C:\\Users\\Asim\\Desktop\\Code\\github payments system\\PaymentSystem\\PaymentApplicationAPI.Domain\\PaymentApplicationAPI.Domain.csproj": {
+                "projectPath": "C:\\Users\\Asim\\Desktop\\Code\\github payments system\\PaymentSystem\\PaymentApplicationAPI.Domain\\PaymentApplicationAPI.Domain.csproj"
               },
-              "C:\\Users\\Asim\\Desktop\\Code\\Community\\Backend\\PaymentApplicationAPI.Infrastructure\\PaymentApplicationAPI.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Asim\\Desktop\\Code\\Community\\Backend\\PaymentApplicationAPI.Infrastructure\\PaymentApplicationAPI.Infrastructure.csproj"
+              "C:\\Users\\Asim\\Desktop\\Code\\github payments system\\PaymentSystem\\PaymentApplicationAPI.Infrastructure\\PaymentApplicationAPI.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Asim\\Desktop\\Code\\github payments system\\PaymentSystem\\PaymentApplicationAPI.Infrastructure\\PaymentApplicationAPI.Infrastructure.csproj"
               },
-              "C:\\Users\\Asim\\Desktop\\Code\\Community\\Backend\\PaymentCollectionAPI\\PaymentApplicationAPI.API.csproj": {
-                "projectPath": "C:\\Users\\Asim\\Desktop\\Code\\Community\\Backend\\PaymentCollectionAPI\\PaymentApplicationAPI.API.csproj"
+              "C:\\Users\\Asim\\Desktop\\Code\\github payments system\\PaymentSystem\\PaymentCollectionAPI\\PaymentApplicationAPI.API.csproj": {
+                "projectPath": "C:\\Users\\Asim\\Desktop\\Code\\github payments system\\PaymentSystem\\PaymentCollectionAPI\\PaymentApplicationAPI.API.csproj"
               }
             }
           }
@@ -270,14 +270,14 @@
         }
       }
     },
-    "C:\\Users\\Asim\\Desktop\\Code\\Community\\Backend\\PaymentCollectionAPI\\PaymentApplicationAPI.API.csproj": {
+    "C:\\Users\\Asim\\Desktop\\Code\\github payments system\\PaymentSystem\\PaymentCollectionAPI\\PaymentApplicationAPI.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asim\\Desktop\\Code\\Community\\Backend\\PaymentCollectionAPI\\PaymentApplicationAPI.API.csproj",
+        "projectUniqueName": "C:\\Users\\Asim\\Desktop\\Code\\github payments system\\PaymentSystem\\PaymentCollectionAPI\\PaymentApplicationAPI.API.csproj",
         "projectName": "PaymentApplicationAPI.API",
-        "projectPath": "C:\\Users\\Asim\\Desktop\\Code\\Community\\Backend\\PaymentCollectionAPI\\PaymentApplicationAPI.API.csproj",
+        "projectPath": "C:\\Users\\Asim\\Desktop\\Code\\github payments system\\PaymentSystem\\PaymentCollectionAPI\\PaymentApplicationAPI.API.csproj",
         "packagesPath": "C:\\Users\\Asim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asim\\Desktop\\Code\\Community\\Backend\\PaymentCollectionAPI\\obj\\",
+        "outputPath": "C:\\Users\\Asim\\Desktop\\Code\\github payments system\\PaymentSystem\\PaymentCollectionAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -299,11 +299,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Asim\\Desktop\\Code\\Community\\Backend\\PaymentApplicationAPI.Domain\\PaymentApplicationAPI.Domain.csproj": {
-                "projectPath": "C:\\Users\\Asim\\Desktop\\Code\\Community\\Backend\\PaymentApplicationAPI.Domain\\PaymentApplicationAPI.Domain.csproj"
+              "C:\\Users\\Asim\\Desktop\\Code\\github payments system\\PaymentSystem\\PaymentApplicationAPI.Domain\\PaymentApplicationAPI.Domain.csproj": {
+                "projectPath": "C:\\Users\\Asim\\Desktop\\Code\\github payments system\\PaymentSystem\\PaymentApplicationAPI.Domain\\PaymentApplicationAPI.Domain.csproj"
               },
-              "C:\\Users\\Asim\\Desktop\\Code\\Community\\Backend\\PaymentApplicationAPI.Infrastructure\\PaymentApplicationAPI.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Asim\\Desktop\\Code\\Community\\Backend\\PaymentApplicationAPI.Infrastructure\\PaymentApplicationAPI.Infrastructure.csproj"
+              "C:\\Users\\Asim\\Desktop\\Code\\github payments system\\PaymentSystem\\PaymentApplicationAPI.Infrastructure\\PaymentApplicationAPI.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Asim\\Desktop\\Code\\github payments system\\PaymentSystem\\PaymentApplicationAPI.Infrastructure\\PaymentApplicationAPI.Infrastructure.csproj"
               }
             }
           }

@@ -2269,11 +2269,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asim\\Desktop\\Code\\Community\\Backend\\PaymentApplicationAPI.Infrastructure\\PaymentApplicationAPI.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\Asim\\Desktop\\Code\\github payments system\\PaymentSystem\\PaymentApplicationAPI.Infrastructure\\PaymentApplicationAPI.Infrastructure.csproj",
       "projectName": "PaymentApplicationAPI.Infrastructure",
-      "projectPath": "C:\\Users\\Asim\\Desktop\\Code\\Community\\Backend\\PaymentApplicationAPI.Infrastructure\\PaymentApplicationAPI.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\Asim\\Desktop\\Code\\github payments system\\PaymentSystem\\PaymentApplicationAPI.Infrastructure\\PaymentApplicationAPI.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Asim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asim\\Desktop\\Code\\Community\\Backend\\PaymentApplicationAPI.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\Asim\\Desktop\\Code\\github payments system\\PaymentSystem\\PaymentApplicationAPI.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

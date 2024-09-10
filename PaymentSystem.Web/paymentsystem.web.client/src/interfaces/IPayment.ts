@@ -6,9 +6,13 @@ export interface IPayment {
     postCode: string;
     phoneNumber: string;
     email: string;
-    paymentType: number;
-    moneyReason: number;
+    paymentTypeId: number;
+    moneyReasonId: number;
+    moneyReason: string;
     paymentAmount: number;
     extraDetails: string;
+    referenceNumber: string;
+    paymentStatus: string;
+    paymentStatusId: number;
 
 }

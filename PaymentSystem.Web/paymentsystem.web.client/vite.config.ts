@@ -5,6 +5,7 @@ import plugin from '@vitejs/plugin-react';
 import fs from 'fs';
 import path from 'path';
 import child_process from 'child_process';
+import { env } from 'process';
 
 const baseFolder =
     process.env.APPDATA !== undefined && process.env.APPDATA !== ''
@@ -35,9 +36,13 @@ if (!fs.existsSync(certFilePath) || !fs.existsSync(keyFilePath)) {
         throw new Error("Could not create certificate.");
     }
 }
+const target = env.ASPNETCORE_HTTPS_PORT ? `https://localhost:${env.ASPNETCORE_HTTPS_PORT}` :
+    env.ASPNETCORE_URLS ? env.ASPNETCORE_URLS.split(';')[0] : 'https://localhost:7110';
+
 
 // https://vitejs.dev/config/
 export default defineConfig({
+
     plugins: [plugin()],
     resolve: {
         alias: {
@@ -53,6 +58,11 @@ export default defineConfig({
             '^/payment': {
                 target: 'https://localhost:7110/',
                 secure: false
+            },
+            '^/account': {
+                target,
+                secure:false
+                
             }
         },
         port: 5173,

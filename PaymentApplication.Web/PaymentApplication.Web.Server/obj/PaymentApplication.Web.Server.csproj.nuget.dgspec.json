@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asim\\Desktop\\Code\\Community\\Backend\\PaymentApplication.Web\\PaymentApplication.Web.Server\\PaymentApplication.Web.Server.csproj": {}
+    "C:\\Users\\Asim\\Desktop\\Code\\github payments system\\PaymentSystem\\PaymentApplication.Web\\PaymentApplication.Web.Server\\PaymentApplication.Web.Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asim\\Desktop\\Code\\Community\\Backend\\PaymentApplication.Web\\PaymentApplication.Web.Server\\PaymentApplication.Web.Server.csproj": {
+    "C:\\Users\\Asim\\Desktop\\Code\\github payments system\\PaymentSystem\\PaymentApplication.Web\\PaymentApplication.Web.Server\\PaymentApplication.Web.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asim\\Desktop\\Code\\Community\\Backend\\PaymentApplication.Web\\PaymentApplication.Web.Server\\PaymentApplication.Web.Server.csproj",
+        "projectUniqueName": "C:\\Users\\Asim\\Desktop\\Code\\github payments system\\PaymentSystem\\PaymentApplication.Web\\PaymentApplication.Web.Server\\PaymentApplication.Web.Server.csproj",
         "projectName": "PaymentApplication.Web.Server",
-        "projectPath": "C:\\Users\\Asim\\Desktop\\Code\\Community\\Backend\\PaymentApplication.Web\\PaymentApplication.Web.Server\\PaymentApplication.Web.Server.csproj",
+        "projectPath": "C:\\Users\\Asim\\Desktop\\Code\\github payments system\\PaymentSystem\\PaymentApplication.Web\\PaymentApplication.Web.Server\\PaymentApplication.Web.Server.csproj",
         "packagesPath": "C:\\Users\\Asim\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asim\\Desktop\\Code\\Community\\Backend\\PaymentApplication.Web\\PaymentApplication.Web.Server\\obj\\",
+        "outputPath": "C:\\Users\\Asim\\Desktop\\Code\\github payments system\\PaymentSystem\\PaymentApplication.Web\\PaymentApplication.Web.Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

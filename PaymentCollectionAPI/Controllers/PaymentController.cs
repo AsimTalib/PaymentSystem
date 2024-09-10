@@ -39,6 +39,7 @@ namespace PaymentApplicationAPI.API.Controllers
             
             return Ok(payment);
         }
+       
 
         [HttpGet("getmoneyreasons")]
         public async Task<IActionResult> GetMoneyReasons()

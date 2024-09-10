@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "4VSRBtW4IC+lLOImZE7zxaRa6gq0+hd2yy7+vOzFk0A=",
+  "Hash": "guk9HvdCO+HaVL5N5zASMcNhY9cO+UNdA3miaH2Og7s=",
   "Source": "PaymentSystem.Web.Server",
   "BasePath": "_content/PaymentSystem.Web.Server",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\Asim\\Desktop\\Code\\Community\\Backend\\PaymentSystem.Web\\paymentsystem.web.client\\paymentsystem.web.client.esproj",
+      "Identity": "C:\\Users\\Asim\\Desktop\\Code\\github payments system\\PaymentSystem\\PaymentSystem.Web\\paymentsystem.web.client\\paymentsystem.web.client.esproj",
       "Version": 2,
       "Source": "paymentsystem.web.client",
       "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",

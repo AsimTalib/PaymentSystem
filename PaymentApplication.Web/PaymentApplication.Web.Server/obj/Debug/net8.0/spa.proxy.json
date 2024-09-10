@@ -3,7 +3,7 @@
 "ServerUrl": "https://localhost:5173",
 "RedirectUrl": "",
 "LaunchCommand": "npm run dev",
-"WorkingDirectory": "C:\\Users\\Asim\\Desktop\\Code\\Community\\Backend\\PaymentApplication.Web\\PaymentApplication.Web.Server\\..\\paymentapplication.web.client",
+"WorkingDirectory": "C:\\Users\\Asim\\Desktop\\Code\\github payments system\\PaymentSystem\\PaymentApplication.Web\\PaymentApplication.Web.Server\\..\\paymentapplication.web.client",
 "MaxTimeoutInSeconds": "120",
 "KeepRunning": "false"
 }

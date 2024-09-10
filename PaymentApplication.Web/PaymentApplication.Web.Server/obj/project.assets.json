@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "net8.0": {
-      "Microsoft.AspNetCore.SpaProxy/8.0.7": {
+      "Microsoft.AspNetCore.SpaProxy/8.0.8": {
         "type": "package",
         "compile": {
           "lib/net8.0/Microsoft.AspNetCore.SpaProxy.dll": {}
@@ -107,10 +107,10 @@
     }
   },
   "libraries": {
-    "Microsoft.AspNetCore.SpaProxy/8.0.7": {
-      "sha512": "31Tcbla9XXgcKaso1VYPy5LBMzYSbY0i8taXYEyO6bknvak4DqKhWJ/FxDp7A9k21rT6QHyKT2P0Kl5FaeHDzA==",
+    "Microsoft.AspNetCore.SpaProxy/8.0.8": {
+      "sha512": "T9Zhb64OmOr2nU0iND7br44EfJrQYHpopxvq33l33uZM2Uu/V2GTHKg5OmGMO3XJuUX59fhqvMyXOcFFj6k1pA==",
       "type": "package",
-      "path": "microsoft.aspnetcore.spaproxy/8.0.7",
+      "path": "microsoft.aspnetcore.spaproxy/8.0.8",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -118,7 +118,7 @@
         "THIRD-PARTY-NOTICES.TXT",
         "build/Microsoft.AspNetCore.SpaProxy.targets",
         "lib/net8.0/Microsoft.AspNetCore.SpaProxy.dll",
-        "microsoft.aspnetcore.spaproxy.8.0.7.nupkg.sha512",
+        "microsoft.aspnetcore.spaproxy.8.0.8.nupkg.sha512",
         "microsoft.aspnetcore.spaproxy.nuspec"
       ]
     },
@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asim\\Desktop\\Code\\Community\\Backend\\PaymentApplication.Web\\PaymentApplication.Web.Server\\PaymentApplication.Web.Server.csproj",
+      "projectUniqueName": "C:\\Users\\Asim\\Desktop\\Code\\github payments system\\PaymentSystem\\PaymentApplication.Web\\PaymentApplication.Web.Server\\PaymentApplication.Web.Server.csproj",
       "projectName": "PaymentApplication.Web.Server",
-      "projectPath": "C:\\Users\\Asim\\Desktop\\Code\\Community\\Backend\\PaymentApplication.Web\\PaymentApplication.Web.Server\\PaymentApplication.Web.Server.csproj",
+      "projectPath": "C:\\Users\\Asim\\Desktop\\Code\\github payments system\\PaymentSystem\\PaymentApplication.Web\\PaymentApplication.Web.Server\\PaymentApplication.Web.Server.csproj",
       "packagesPath": "C:\\Users\\Asim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asim\\Desktop\\Code\\Community\\Backend\\PaymentApplication.Web\\PaymentApplication.Web.Server\\obj\\",
+      "outputPath": "C:\\Users\\Asim\\Desktop\\Code\\github payments system\\PaymentSystem\\PaymentApplication.Web\\PaymentApplication.Web.Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

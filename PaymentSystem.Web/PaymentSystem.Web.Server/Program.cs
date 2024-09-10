@@ -12,7 +12,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddScoped<IOperationService, OperationService>();
-
+builder.Services.AddScoped<ILoginService, LoginService>();
 // adding the driver for postgresql
 builder.Services.AddDbContext<PaymentCollectionDBContext>(options => options.UseNpgsql("Host=localhost;Database=payment-db;Username=postgres;Password=Manchester2023!"));
 

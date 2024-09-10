@@ -5,12 +5,6 @@ using PaymentApplicationAPI.Domain.Services;
 
 
 
-//See who has paid membership ( which years unpaid)
-//see who is a member 
-//add members to household 
-//update existing members to different addresses 
-
-
 namespace PaymentApplicationAPI.API.Controllers
 {
     [ApiController]
