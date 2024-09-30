@@ -1,4 +1,4 @@
-import React, { FormEvent, useState } from 'react';
+import React, { useState } from 'react';
 
 import Button from "@mui/material/Button";
 import TextField from "@mui/material/TextField";
@@ -15,6 +15,7 @@ export default function LoginForm() {
 
     const [username, setUsername] = useState('');
     const [password, setPassword] = useState('');
+    
 
     const handleUserNameChange = (e: React.ChangeEvent<HTMLInputElement>) => {
         const { value } = e.target;
@@ -35,6 +36,10 @@ export default function LoginForm() {
         }
         const result = await loginUser(model)
         console.log("The user exists : " + result);
+        if (result == true) {
+            window.location.href = "/home"
+        }
+       
     };
 
     return (

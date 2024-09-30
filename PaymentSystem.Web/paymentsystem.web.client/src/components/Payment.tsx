@@ -20,6 +20,8 @@ function Payment() {
         fetchdata();
     }, []);
 
+
+
     const columns: GridColDef[] = [
 
         { field: 'firstName', headerName: 'First Name', width: 150 },
@@ -36,8 +38,9 @@ function Payment() {
         { field: 'referenceNumber', headerName: 'Reference Number', width: 200 },
         { field: 'paymentStatus', headerName: 'Payment Status', width: 150 },
         { field: 'paymentStatusId', headerName: 'Payment Status ID', width: 150 },
-  
+    
     ];
+
 
     function getRowId(row) {
         return row.referenceNumber;
